@@ -8,12 +8,6 @@
 /jaftmp@
 
 /hybrid/node_modules
-/hybrid/platforms
-/hybrid/www/*
-
-!hybrid/plugins
-hybrid/plugins/*
-!hybrid/plugins/fetch.json
 
 .DS_Store
 Thumbs.db
